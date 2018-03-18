@@ -1,0 +1,58 @@
+/*This CSS coding will create a fixed web page that doesn't
+expand with the browser window.*/
+
+.animal-card {
+    border: thin solid #d5d5d5;
+    box-shadow: 9px 9px 2px #e0e0e0;
+    width:300px;
+    padding: 0 18px 12px 14px;
+    background-color: rgb(228, 237, 241);
+}
+
+h3 {
+    font-size: 30px;
+}
+
+figure {
+    display: block;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+img {
+    width:300px;
+}
+
+
+.animal-description {
+    border: thin solid #c2c2c2;
+    padding: 4px 15px 15px 15px;
+    line-height: 20px;
+    /*font-size: 18px;*/
+}
+
+
+.interesting-fact {
+    font-style:italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+ul {
+    list-style-type: none;
+    padding-left:0;
+}
+
+
+.even-text {
+  text-align: justify;
+}
+
+
+.citation {
+    font-size: 13px;
+    line-height: normal;
+}
